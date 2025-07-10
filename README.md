@@ -32,7 +32,7 @@ sure-tomorrow-insurance-ml/
 ├── sure_tomorrow_ml_P13.ipynb
 ├── README.md
 ├── requirements.txt
-├── data (insurance_us.csv)
+└── insurance_us.csv
 
 
 ✍️ Autor
