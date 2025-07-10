@@ -29,9 +29,13 @@ Este proyecto simula un caso práctico para una aseguradora ficticia llamada **S
 - 
 ## 📁 Estructura
 sure-tomorrow-insurance-ml/
+
 ├── sure_tomorrow_ml_P13.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── insurance_us.csv
 
 
