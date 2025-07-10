@@ -26,3 +26,15 @@ Este proyecto simula un caso práctico para una aseguradora ficticia llamada **S
 - Clasificación binaria (Regresión Logística)
 - Regresión lineal múltiple
 - Validación de impacto del enmascaramiento de datos
+- 
+## 📁 Estructura
+sure-tomorrow-insurance-ml/
+├── sure_tomorrow_ml_P13.ipynb
+├── README.md
+├── requirements.txt
+├── data (insurance_us.csv)
+
+
+✍️ Autor
+Jorge Elian Mendoza Pujol
+🔗 [LinkedIn](www.linkedin.com/in/jorge-elian-mendoza-pujol-359500283) 
