@@ -28,7 +28,7 @@ Este proyecto simula un caso práctico para una aseguradora ficticia llamada **S
 - Validación de impacto del enmascaramiento de datos
 - 
 ## 📁 Estructura
-sure-tomorrow-insurance-ml/
+Insurance_ml_prediction/
 
 ├── sure_tomorrow_ml_P13.ipynb
 
